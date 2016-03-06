@@ -1,1 +1,3 @@
 .gradle/
+jmeter.log
+build/jmeter/report.jtl
